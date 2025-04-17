@@ -70,7 +70,7 @@ You can deploy directly via GitHub and Netlify:
 
 - **Tanmay Saxena**  
   📫 [tanmaysaxena@ufl.edu](mailto:tanmaysaxena@ufl.edu)  
-  🌐 [awsenigma.github.io](https://awsenigma.github.io)  
+  🌐 [jawsenigma.github.io](https://jawsenigma.github.io)  
   💼 [LinkedIn](https://linkedin.com/in/tanmay--saxena)  
   💻 [GitHub](https://github.com/Jawsenigma)
 
