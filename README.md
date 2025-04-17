@@ -2,11 +2,6 @@
 
 ## A personal portfolio website built using [Astro](https://astro.build) and deployed with ❤️
 
-![tanmay-saxena-portfolio preview](public/preview.png)
-
-### 🧪 [Live Demo](https://awsenigma.github.io)  
-### 📄 [My Resume](https://awsenigma.github.io/Tanmay_Resume.pdf)
-
 ---
 
 ## ✨ Features
