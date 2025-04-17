@@ -1,6 +1,3 @@
-Here's a customized `README.md` for **your** version of the Astro Bento portfolio, with your name, links, and resume included:
-
-```markdown
 # ⚡️tanmay-saxena-portfolio
 
 ## A personal portfolio website built using [Astro](https://astro.build) and deployed with ❤️
@@ -86,5 +83,3 @@ You can deploy directly via GitHub and Netlify:
 
 > Forked and inspired by [Gianmarco](https://github.com/Ladvace)'s astro-bento-portfolio
 ```
-
-Let me know if you want to include project screenshots, contribution instructions, or license info!
