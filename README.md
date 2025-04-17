@@ -1,75 +1,90 @@
-# ⚡️astro-bento-portfolio
+Here's a customized `README.md` for **your** version of the Astro Bento portfolio, with your name, links, and resume included:
 
-## A personal portfolio website made using `Astro`.
+```markdown
+# ⚡️tanmay-saxena-portfolio
 
-![astro-bento-portfolio | Bento-like Personal Porfolio Template](public/preview.png)
+## A personal portfolio website built using [Astro](https://astro.build) and deployed with ❤️
 
-To view a demo example, **[click here](https://sparkly-speculoos-0c9197.netlify.app/)**
+![tanmay-saxena-portfolio preview](public/preview.png)
 
-or my portfolio **[click here](https://gianmarcocavallo.com)**
+### 🧪 [Live Demo](https://awsenigma.github.io)  
+### 📄 [My Resume](https://awsenigma.github.io/Tanmay_Resume.pdf)
 
-## Features
+---
 
-- Modern and Minimal bento-like, sleek UI Design
-- All in one page (almost)
-- Fully Responsive
-- Performances and SEO optimizations
-- Ready to be deployed on [Netlify](https://www.netlify.com/)
-- Blog
-- RSS support (your-domain/rss.xml)
-- Cool 3d globe
+## ✨ Features
 
-## Tech Stack
+- Minimal & modern bento-like UI
+- Fully responsive layout
+- Fast performance & SEO optimized
+- Built-in blog with RSS support (`/rss.xml`)
+- Animated 3D globe using D3.js
+- Ready for [Netlify](https://www.netlify.com/) deployment
+
+---
+
+## 🛠 Tech Stack
 
 - [Astro](https://astro.build)
-- [unocss](https://unocss.dev/)
-- [motion](https://motion.dev/)
-- [d3](https://d3js.org/)
+- [UnoCSS](https://unocss.dev/)
+- [Motion](https://motion.dev/)
+- [D3.js](https://d3js.org)
 
-# Steps ▶️
+---
+
+## 🚀 Getting Started
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Ladvace/astro-bento-portfolio
-```
-
-```bash
-# Go into the repository
-$ cd astro-bento-portfolio
+git clone https://github.com/Jawsenigma/tanmay-saxena-portfolio
+cd tanmay-saxena-portfolio
 ```
 
 ```bash
 # Install dependencies
-$ pnpm install
-or
-$ npm install
+pnpm install
+# or
+npm install
 ```
 
 ```bash
-# Start the project in development
-$ pnpm run dev
-or
-$ npm run dev
+# Start the dev server
+pnpm run dev
+# or
+npm run dev
 ```
 
-# Be sure to replace the momoji and all the relative information, such as email, website and other info, if you don't your website is gonna point to my domain and to my info
+---
 
-## REMOVE THE umami analytics script tag (or replace it with your id) in `src/layouts/Layout.astro`
+## ⚙️ Configuration
 
-# Configuration
+Make sure to:
 
-remember to replace the `site` and other properties with your data in `astro.config.mjs`
+- Replace emojis, links, resume, and social handles in the respective components
+- Update your site info in `astro.config.mjs`
+- Remove or replace the Umami analytics script in `src/layouts/Layout.astro`
 
-# Deploy on Netlify 🚀
+---
 
-Deploying your website on Netlify it's optional but I reccomand it in order to deploy it faster and easly.
+## 🌍 Deploy to Netlify
 
-You just need to fork this repo and linking it to your Netlify account.
+You can deploy directly via GitHub and Netlify:
 
-or
+[![Netlify Deploy button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Jawsenigma/tanmay-saxena-portfolio)
 
-[![Netlify Deploy button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Ladvace/astro-bento-portfolio)
+---
 
-## Authors ❤️
+## 🙌 Author
 
-- Gianmarco - https://github.com/Ladvace
+- **Tanmay Saxena**  
+  📫 [tanmaysaxena@ufl.edu](mailto:tanmaysaxena@ufl.edu)  
+  🌐 [awsenigma.github.io](https://awsenigma.github.io)  
+  💼 [LinkedIn](https://linkedin.com/in/tanmay--saxena)  
+  💻 [GitHub](https://github.com/Jawsenigma)
+
+---
+
+> Forked and inspired by [Gianmarco](https://github.com/Ladvace)'s astro-bento-portfolio
+```
+
+Let me know if you want to include project screenshots, contribution instructions, or license info!
