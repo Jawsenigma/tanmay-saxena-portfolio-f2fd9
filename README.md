@@ -1,4 +1,4 @@
-#⚡️tanmay-saxena-portfolio
+# ⚡️tanmay-saxena-portfolio
 
 ## A personal portfolio website built using [Astro](https://astro.build) and deployed with ❤️
 
