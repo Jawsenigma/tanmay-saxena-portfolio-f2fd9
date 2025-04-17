@@ -18,15 +18,15 @@ export function formatTimeForItaly(date: Date): string {
     hour: "numeric",
     minute: "2-digit",
     second: "2-digit",
-    hour12: true, // This will format the time in 12-hour format with AM/PM
-    timeZone: "Europe/Rome",
+    hour12: false, // This will format the time in 12-hour format with AM/PM
+    timeZone: "America/New_York",
+    timeZoneName: "short",
   };
 
   let formattedTime = new Intl.DateTimeFormat("en-US", options).format(date);
 
   // Append the time zone abbreviation. You can automate this with libraries like `moment-timezone`.
   // For simplicity, here I'm just appending "CET", but do remember that Italy switches between CET and CEST.
-  formattedTime += " CET";
 
   return formattedTime;
 }
